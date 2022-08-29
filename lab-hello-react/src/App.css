@@ -1,0 +1,67 @@
+.Ironhacklogo {
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+.menuTop {
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+
+.Header {
+  background-color: #1F2535;
+  min-height: 50px;
+  display: flex;
+  flex-direction:column;
+  color: white;
+}
+
+.App-img {
+  width: 150px;
+  height: 150px;
+}
+
+.Cards{
+  height: 200px;
+  width: 200px;
+  justify-content: center;
+  display: flex;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Header-title{
+  font-size: 50px;
+}
+
+.Header-head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Header-container{
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content:right;
+}
+
+.Header-text{
+  width: 245px;
+}
+
+.Header-button{
+  margin-top: 50px;
+  width: 200px;
+  height: 70px;
+}
+
+.Images{
+  display: flex;
+  justify-content: center;
+}
